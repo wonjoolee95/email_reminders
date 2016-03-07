@@ -53,7 +53,7 @@ Email sent successfully
 
 ```
 
-The recieved email will be sent from wonjoolee.testing@gmail.com and will be in this form:
+The email will be sent right away and will follow this form:
 
 ```
 
